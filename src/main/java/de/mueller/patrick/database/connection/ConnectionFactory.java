@@ -8,7 +8,7 @@ import java.util.logging.Logger;
 
 public class ConnectionFactory
 {
-    private final static String URL = "jdbc:postgresql://localhost:5432/postgres"; //TODO
+    private final static String URL = "jdbc:postgresql://localhost:5432/postgres";
     private final static String USER = "postgres";
     private final static String PASSWORD = "mypwd";
 
